@@ -1,4 +1,4 @@
-DEMO:https://youtu.be/UAdFa2qNyZ8?si=ZWS_aod2ZSWF3HqK
+DEMO:https://youtu.be/_2Qnf-WZ2ac?si=Zie6SNPUOH4GO3MA
 
 這次專案使用 Android Studio 與 Kotlin 開發員工排班系統，整合首頁公告、會員中心、每週排班設定、排班結果及個人頭像拍攝等功能，並透過 BottomNavigationView 與 ViewPager2 實現頁面切換及左右滑動操作。此外，我也嘗試加入中英文多國語言介面，讓應用程式能依照手機系統語言自動切換顯示內容，提升使用上的便利性。
 
